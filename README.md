@@ -2,16 +2,15 @@
 
 A project that connects to MetaMask and displays a simple profile card
 
-# Process
+# Workflow
 
-Creating a boiler plate react app
-Adding dependencies
-List states of Profile Component
-Programatically retrieve state
-    - async / await calls from ethers.js APIs
-Configure JSX to show state
-CSS
-Debug
+Create a minimum config react app\
+Add dependencies\
+List states of Profile Component\
+Programatically retrieve state using ethers.js API\
+Configure JSX to show state\
+CSS\
+Functional testing of requirements\
 
 # Notes
 
@@ -25,19 +24,17 @@ https://docs.metamask.io/wallet/reference/provider-api/#accountsChanged
 
 # Dev Dependencies
 
-typescript
-webpack webpack-cli webpack-dev-server css-loader html-webpack-plugin mini-css-extract-plugin ts-loader
+typescript\
+webpack webpack-cli webpack-dev-server css-loader html-webpack-plugin\ mini-css-extract-plugin ts-loader\
 
-# Dependencioes
+# Dependencies
 
-react react-dom
-@types/react @types/react-dom
-ethers@5.7.2
+react react-dom\
+@types/react @types/react-dom\
+ethers@5.7.2\
 
-Bootstrap 5 used in this project. CDN added in index.html
+Bootstrap 5.3 used in this project. CDN added in index.html
 Ethers 5.7.2 used since documentation isn't available for 6.6.4
-
-env.d.ts contains type extension for interface Window
 
 # References
 
