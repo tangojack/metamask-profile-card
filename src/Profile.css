@@ -6,4 +6,11 @@
 }
 .card {
     width: 400px;
+    padding-top: 20px;
+    align-items: center;
+}
+.card-img-top {
+    width: 200px;
+    height: 200px;
+    border-radius: 3%;
 }
