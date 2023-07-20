@@ -38,8 +38,6 @@ Ethers 5.7.2 used since documentation isn't available for 6.6.4
 
 # References
 
-https://dev.to/alekseiberezkin/setting-up-react-typescript-app-without-create-react-app-oph
-
 https://docs.ethers.org/v5/getting-started/
 
 https://docs.metamask.io/wallet/
